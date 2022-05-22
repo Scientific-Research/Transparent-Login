@@ -6,12 +6,11 @@ body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9)),
     url("https://picsum.photos/600");
 
-  /* height: 50%; */
-  /* width: 50%; */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  /* height: 50%; */
   /* width: 50%; */
   margin: 20% 40%;
 }
@@ -25,6 +24,7 @@ body {
   color: white;
   padding-bottom: 8px;
   /* margin: 0% 40%; */
+  /* width: 50%; */
 }
 i {
   color: white;
@@ -49,5 +49,6 @@ button {
   color: white;
   font-weight: bold;
   font-size: 16px;
-  text-align: center;
+  /* text-align: center; */
+  border-radius: 5px;
 }
